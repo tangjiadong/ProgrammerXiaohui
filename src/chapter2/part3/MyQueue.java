@@ -1,4 +1,4 @@
-package chapter2.part2.part3;
+package chapter2.part3;
 
 /**
  * Created by Tang on 2020/7/22
