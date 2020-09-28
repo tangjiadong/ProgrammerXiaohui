@@ -83,6 +83,7 @@ public class BubbleSort {
         sort(array);
         System.out.println(Arrays.toString(array));
         sort1(array);
+        System.out.println("============");
         System.out.println(Arrays.toString(array));
         sort2(array);
         System.out.println(Arrays.toString(array));
